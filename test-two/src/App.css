@@ -1,0 +1,16 @@
+html {
+  background-color: #282c34;
+}
+
+.App {
+  text-align: center;
+  color: white;
+}
+
+.header {
+  font-size: 1.8em;
+  border: 2px dotted silver;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
